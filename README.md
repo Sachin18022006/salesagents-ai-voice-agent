@@ -116,12 +116,5 @@ Open [http://localhost:8000](http://localhost:8000) in your browser to interact 
 
 ## 4. Voice Platform Integration (Retell AI & Bolna)
 
-### Live Retell AI Deployment Links
-- **Agent Name**: `Home Credit LAP - Priya`
-- **Agent ID**: `agent_5753219f81a13cac53ddfb266c`
-- **LLM Engine ID**: `llm_7e15ff1dd281c9c3863c8a85972b`
-- **Voice Persona**: `11labs-Monika` (Indian English Female / ElevenLabs)
-- **Live Call Link**: [https://beta.retellai.com/call/call_a85dcd5bcdeb845186c5f3f9681](https://beta.retellai.com/call/call_a85dcd5bcdeb845186c5f3f9681)
-- **Agent Dashboard**: [https://beta.retellai.com/dashboard/agents/agent_5753219f81a13cac53ddfb266c](https://beta.retellai.com/dashboard/agents/agent_5753219f81a13cac53ddfb266c)
-
+Live Call Link : https://drive.google.com/file/d/13UjfmThyEhfktckL-lyi3djkI8-o3op5/view?usp=drive_link
 Detailed step-by-step instructions are provided in [docs/submission-checklist.md](file:///C:/Users/sachi/.gemini/antigravity-ide/scratch/salesagents-ai-voice-agent/docs/submission-checklist.md).
